@@ -33,9 +33,3 @@ while a <= 99:
     print(f"{b}위",title[a], "-", singer[a])
     a = a + 1
     b = b + 1
-
-
-
-
-
-
